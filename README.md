@@ -1,7 +1,7 @@
 # Abnormality-Detection-in-Digital-Breast-Mammography
 
 Code repository of the paper titled, "Abnormality Detection in Digital Breast Mammography Images using deep learning techniques".
-This code is borrowed from (https://github.com/byungjae89/SPADE-pytorch) and (https://github.com/byungjae89/MahalanobisAD-pytorch)
+This code is heavily borrowed from (https://github.com/byungjae89/SPADE-pytorch) and (https://github.com/byungjae89/MahalanobisAD-pytorch)
 ### Datasets 
 MIAS Mammography : Download from [Kaggle](https://www.kaggle.com/kmader/mias-mammography)
 
