@@ -1,12 +1,21 @@
 # Abnormality-Detection-in-Digital-Breast-Mammography
-Code repository of the paper titled, "Abnormality Detection in Digital Breast Mammography Images using deep learning techniques"
+
+Code repository of the paper titled, "Abnormality Detection in Digital Breast Mammography Images using deep learning techniques".
 This code is borrowed from (https://github.com/byungjae89/SPADE-pytorch) and (https://github.com/byungjae89/MahalanobisAD-pytorch)
----
-####Datasets 
----
+### Datasets 
 MIAS Mammography : Download from [Kaggle](https://www.kaggle.com/kmader/mias-mammography)
 
-![Architechture_1](./assets/Figure3.png "Architechture 1st Part")
-![Architechture_2](./assets/Figure4.png "Architechture 2nd Part")
-![ROC score](./mias_results/roc_curve.png "ROC curve")
- 
+### Requirements
+Python 3.6 or later with all requirements.txt dependencies installed, including torch>=1.7. To install run:
+```
+ pip install -r requirement.txt
+```
+### Architecture
+<img src="./assets/Figure3.png" width="600" height="400">
+<p align ="center">
+<img src="./assets/Figure4.png" width="400" height="400">
+<p align ="center">
+
+### Evaluation
+<img src="./mias_results/roc_curve.png" width="500" height="300">
+</p>
