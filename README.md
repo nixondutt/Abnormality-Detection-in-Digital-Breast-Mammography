@@ -11,7 +11,7 @@ Python 3.6 or later with all requirements.txt dependencies installed, including 
  pip install -r requirement.txt
 ```
 ### Architecture
-<img src="./assets/Figure3.png" width="600" height="400">
+<img src="./assets/Figure3.png" width="700" height="400">
 <p align ="center">
 <img src="./assets/Figure4.png" width="400" height="400">
 <p align ="center">
