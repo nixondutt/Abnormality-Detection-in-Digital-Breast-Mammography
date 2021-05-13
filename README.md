@@ -1,6 +1,6 @@
 # Abnormality-Detection-in-Digital-Breast-Mammography
-
-Code repository of my paper titled, "Abnormality Detection in Digital Breast Mammography Images using deep learning techniques"
+---
+Code repository of the paper titled, "Abnormality Detection in Digital Breast Mammography Images using deep learning techniques"
 This code is borrowed from (https://github.com/byungjae89/SPADE-pytorch) and (https://github.com/byungjae89/MahalanobisAD-pytorch)
 ---
 ####Datasets 
