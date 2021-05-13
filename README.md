@@ -17,5 +17,5 @@ Python 3.6 or later with all requirements.txt dependencies installed, including 
 <p align ="center">
 
 ### Evaluation
-<img src="./mias_results/roc_curve.png" width="500" height="300">
+<img src="./mias_results/roc_curve.png" width="600" height="300">
 </p>
